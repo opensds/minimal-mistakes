@@ -38,9 +38,9 @@ The Aruba release adds the following functionality:
 The OpenSDS controller (Hotpot), the north bound plugins (Sushi), and the
 installer can be downloaded from here:
 
-Hotpot: https://github.com/opensds/opensds/releases/tag/v0.2.0
-Sushi: https://github.com/opensds/nbp/releases/tag/v0.2.0
-Installer: https://github.com/opensds/opensds-installer/releases/tag/v0.2.0
+[Hotpot](https://github.com/opensds/opensds/releases/tag/v0.2.0)
+[Sushi](https://github.com/opensds/nbp/releases/tag/v0.2.0)
+[Installer](https://github.com/opensds/opensds-installer/releases/tag/v0.2.0)
 
 ### Events
 

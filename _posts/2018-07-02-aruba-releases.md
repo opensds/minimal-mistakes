@@ -1,6 +1,8 @@
 ---
 title: OpenSDS Aruba Released
 author: Sean McGinnis
+header:
+  image: /assets/images/osds-banner.png
 categories:
   - Release
 tags:

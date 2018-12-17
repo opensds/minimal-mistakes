@@ -9,7 +9,7 @@ tags:
   - bali
 ---
 
-Wrapping up right on time, the team competed the Bali development cycle last
+Wrapping up right on time, the team completed the Bali development cycle last
 week. This release brings a lot of great new functionality. Really an
 impressive accomplishment by all involved.
 

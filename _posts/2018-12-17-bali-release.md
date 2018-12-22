@@ -22,6 +22,7 @@ Truly impressive!
 The Bali release adds the following functionality:
 
 * Introduced management of multiple OpenStack deployments
+* Expanded the OpenSDS standard RESTful API
 * Multi-Cloud support
    - S3 API support with AWS, Azure, Huawei Cloud, and local Ceph object store and Fusion Storage backends.
    - Manual and basic policy based migration for AWS, Azure, Huawei Cloud, Ceph, and Fusion Storage.

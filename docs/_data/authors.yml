@@ -1,0 +1,23 @@
+Sean McGinnis:
+  name: "Sean McGinnis"
+  bio: "OpenSDS community and release manager"
+  avatar: "/assets/images/smcginnis.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sean.mcginnis@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SeanTMcGinnis"
+
+Xing Yang:
+  name: "Xing Yang"
+  bio: "OpenSDS project and architecture lead"
+  avatar: "/assets/images/xyang.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:xingyang105@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/2000Xyang"
